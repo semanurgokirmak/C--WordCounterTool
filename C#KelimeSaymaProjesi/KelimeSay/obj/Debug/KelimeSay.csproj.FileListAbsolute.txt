@@ -1,0 +1,30 @@
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe.config
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\bin\Debug\KelimeSay.pdb
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.KelimeForm.resources
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.Properties.Resources.resources
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.exe
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\65_KelimeSay\KelimeSay\obj\Debug\KelimeSay.pdb
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe.config
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.pdb
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.KelimeForm.resources
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.Properties.Resources.resources
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.exe
+C:\Repos\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe.config
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\bin\Debug\KelimeSay.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.KelimeForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.Properties.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.csproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta7\BIP2503 - 07.HAFTA\FINISHED\70_KelimeSay\KelimeSay\obj\Debug\KelimeSay.pdb
